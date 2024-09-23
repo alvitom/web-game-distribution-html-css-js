@@ -1,2 +1,2 @@
-# web-game-distribution-html-css-js
+# Alvito Game Store
 Web Game Distribution Using HTML, CSS, &amp; Javascript
